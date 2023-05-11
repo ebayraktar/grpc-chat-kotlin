@@ -12,5 +12,5 @@ dependencies {
 
     runtimeOnly 'ch.qos.logback:logback-classic:1.2.3'
     implementation "org.slf4j:slf4j-api:1.7.23"
-    implementation "io.grpc:grpc-netty-shaded:1.30.2"
+    implementation "io.grpc:grpc-netty-shaded:1.55.1"
 }
